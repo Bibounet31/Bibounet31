@@ -69,7 +69,7 @@ just someone who codes, breaks stuff, repair them to break them again... learns 
 
 ---
 
-*"if it works, don't touch it. if it doesn't work, try turning it off and on again."*
+*"if it works, don't touch it.....no i will break it if it works, thats why am born, then i'll disasemble it in a way that i will never be able to reassemble it, forget about it for some month, get back to it and spend way too much to make it work again"*
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer)
 
