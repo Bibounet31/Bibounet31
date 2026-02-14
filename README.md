@@ -30,15 +30,6 @@ just someone who codes, breaks stuff, repair them to break them again... learns 
 
 ---
 
-### 💻 what i mess with
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibounet31&layout=compact&theme=dark&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide_border=true)
-
-</div>
-
----
 
 ### 📈 activity go brrr
 
