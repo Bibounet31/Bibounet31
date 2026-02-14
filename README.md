@@ -22,8 +22,6 @@ just someone who codes, breaks stuff, repair them to break them again... learns 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bibounet31&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bibounet31&theme=tokyonight&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&border=30363d&hide_border=true)
 
 </div>
