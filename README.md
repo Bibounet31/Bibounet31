@@ -34,7 +34,7 @@ just someone who codes, breaks stuff, repair them to break them again... learns 
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibounet31&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibounet31&layout=compact&theme=dark&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide_border=true)
 
 </div>
 
@@ -54,7 +54,10 @@ just someone who codes, breaks stuff, repair them to break them again... learns 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bibounet31&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibounet31&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bibounet31&theme=github_dark&utcOffset=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bibounet31&theme=github_dark)
 
 </div>
 
