@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Bibounet31/Bibounet31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 hey, i'm bibounet31
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=breaking+things+and+fixing+them;probably+debugging+right+now;powered+by+coffee+%26+purple+vibes" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🎯 what i'm about
+
+just someone who codes, breaks stuff, repair them to break them again... learns from it, and does it all over again..
+
+- 🔮 building random projects that may or may not work
+- 🌙 most productive between 11pm and 4am
+- ☕ running on nothing and stackoverflow
+
+---
+
+### 📊 the numbers don't lie
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bibounet31&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bibounet31&theme=tokyonight&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&border=30363d&hide_border=true)
+
+</div>
+
+---
+
+### 💻 what i mess with
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibounet31&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d&hide_border=true)
+
+</div>
+
+---
+
+### 📈 activity go brrr
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bibounet31&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=c9d1d9&area=true&hide_border=true)
+
+</div>
+
+---
+
+### 🏆 flex zone
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Bibounet31&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+### 📌 pinned repos are what i'm actually proud of
+
+*(check them out below if you're curious)*
+
+---
+
+<div align="center">
+
+### 💬 let's connect or whatever
+
+[![GitHub followers](https://img.shields.io/github/followers/Bibounet31?style=for-the-badge&color=a78bfa&labelColor=0d1117)](https://github.com/Bibounet31)
+[![Profile Views](https://komarev.com/ghpvc/?username=Bibounet31&style=for-the-badge&color=a78bfa&label=profile+views)](https://github.com/Bibounet31)
+
+---
+
+*"if it works, don't touch it. if it doesn't work, try turning it off and on again."*
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer)
+
+</div>
